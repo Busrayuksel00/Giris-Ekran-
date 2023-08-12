@@ -1,0 +1,77 @@
+
+   /* Google font ekleme  */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300;1,400;1,500&display=swap');
+
+
+*{
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    
+}
+ 
+h2{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif; 
+    font-size: 5px;
+    
+}
+
+
+   /* ikon boyutu ayarlama  */
+i{
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+   /* veri girişi yapıldığı ve yazı boyutunu ortalaması kenar yuvarlıkları */
+input[type=text], select {
+    width: 15%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    font-size: medium;
+    text-align: center;
+
+  }
+
+  /* buton tasarımı  buton yuvarlaklığı  */
+  .button{
+    background-color: #19548f;
+
+    border-radius: 30px;
+
+    color: white;
+
+    padding: 15px 32px;
+
+    text-align: center;
+
+    text-decoration: none;
+
+    display: inline-block;
+
+    font-size: 16px;
+
+    margin: 4px 2px;
+
+    cursor: pointer;
+}
+.responsive {
+    width: 100%;
+    height: auto;
+  }
+
+  
+
+  
+    
+  
+  
+  
+
+  
